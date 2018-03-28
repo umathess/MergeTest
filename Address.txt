@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 Hello
 Pranesh here
-=======
+
 My address is Oracle,Pune
->>>>>>> f05535a5d98d85a22ff01978a59b7d09d4c60b0f
+
